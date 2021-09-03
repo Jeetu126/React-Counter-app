@@ -1,4 +1,4 @@
 #React Counter app
 
 
-Open [https://app.netlify.com/sites/priceless-johnson-59ae1e/overview](https://app.netlify.com/sites/priceless-johnson-59ae1e/overview) to view it in the browser.
+Open [https://priceless-johnson-59ae1e.netlify.app/](https://priceless-johnson-59ae1e.netlify.app/) to view it in the browser.
